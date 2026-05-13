@@ -60,6 +60,8 @@ Product Managers define what should be built to deliver customer and business va
 - Works with Developers and Technical Leads on feasibility and scope
 - Engages with Stakeholder Management to gather requirements and communicate progress
 - Collaborates with Analytics/Data roles to track success metrics
+- Works with UX/Design Lead on user experience and feasibility
+- Aligns with Customer Success on customer feedback and requirements
 
 ---
 
@@ -90,6 +92,8 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Aligns with Product Managers on prioritization and scope changes
 - Engages with Stakeholder Management on executive reporting
 - Partners with Security & Compliance on security review timelines
+- Works with Finance/Budget Owner on resource allocation and cost tracking
+- Collaborates with Support/Operations on launch readiness and transition planning
 
 ---
 
@@ -122,6 +126,7 @@ QA and Testing professionals ensure product quality by designing test strategies
 - Collaborates with Product Managers on acceptance criteria clarity
 - Partners with DevOps/Platform engineers on test environment setup and automation
 - Supports Release Engineers with pre-deployment smoke tests
+- Engages with UX/Design Lead on user experience validation
 
 ---
 
@@ -154,6 +159,7 @@ Technical Leads provide architectural guidance, mentor developers, and ensure te
 - Collaborates with Product Managers on feasibility and scope implications
 - Works with DevOps/Platform engineers on infrastructure and scalability
 - Partners with Security & Compliance on architectural security reviews
+- Engages with UX/Design Lead on technical feasibility of design solutions
 
 ---
 
@@ -187,6 +193,7 @@ DevOps and Platform Engineers manage infrastructure, deployment pipelines, monit
 - Collaborates with QA/Testing on test environment setup
 - Partners with Security & Compliance on infrastructure security controls
 - Engages with Project Managers on deployment scheduling and windows
+- Supports Support/Operations with operational runbooks and monitoring setup
 
 ---
 
@@ -220,6 +227,7 @@ Security and Compliance professionals ensure that projects meet security standar
 - Works with DevOps/Platform engineers on infrastructure security
 - Collaborates with Release Engineers on secure deployment practices
 - Engages with Stakeholders on compliance and audit requirements
+- Partners with Legal/Compliance on regulatory requirements
 
 ---
 
@@ -253,6 +261,7 @@ Stakeholder Managers and Sponsors represent business interests, provide executiv
 - Escalates risks and priorities through Project Managers
 - Receives status updates from Product and Project Managers
 - Makes go/no-go decisions at key decision gates
+- Engages with Finance/Budget Owner on investment decisions
 
 ---
 
@@ -323,8 +332,230 @@ Release Engineers coordinate and execute product releases, manage versioning, an
 
 ---
 
+## UX / Design Lead
+
+### Role Summary
+UX and Design Leads define the user experience strategy, create design systems, and ensure that products are intuitive, accessible, and delightful. They advocate for the user throughout the product development lifecycle.
+
+### Responsibilities
+- Define UX strategy and design vision aligned with product goals
+- Create wireframes, prototypes, and design specifications
+- Establish and maintain design systems and component libraries
+- Conduct user research and usability testing
+- Review and provide feedback on UI/UX implementations
+- Ensure accessibility standards and best practices are met
+- Collaborate on information architecture and user flows
+
+### Goals
+- Deliver intuitive, accessible, and delightful user experiences
+- Maintain design consistency across products
+- Reduce user friction and support burden through good design
+- Inform product decisions with user research insights
+
+### Typical Communication
+- Design specs and component documentation
+- Wireframes, prototypes, and design reviews
+- Usability testing findings and recommendations
+- Design system updates and guidelines
+
+### Interactions
+- Partners with Product Managers on feature requirements and user research
+- Collaborates with Developers on design feasibility and implementation
+- Works with QA/Testing on user experience validation
+- Engages with Technical Leads on technical constraints and solutions
+- Aligns with Customer Success on user feedback and pain points
+- Coordinates with Marketing/Communications on visual branding and messaging
+- Supports Support/Operations on help documentation and UI clarity
+
+---
+
+## Marketing / Communications
+
+### Role Summary
+Marketing and Communications professionals drive go-to-market strategy, manage product announcements, and ensure consistent messaging across all channels. They connect product capabilities to customer value and organizational goals.
+
+### Responsibilities
+- Develop go-to-market strategies and launch plans
+- Create product messaging and value propositions
+- Manage product announcements and communications
+- Coordinate with sales and customer success on messaging
+- Develop marketing materials and documentation
+- Manage internal and external stakeholder communications
+- Track market adoption and competitive positioning
+
+### Goals
+- Maximize product adoption and market awareness
+- Ensure clear, consistent messaging across all channels
+- Drive business growth and customer engagement
+- Align product capabilities with market opportunities
+
+### Typical Communication
+- Go-to-market plans and messaging frameworks
+- Launch schedules and communication timelines
+- Customer announcements and press releases
+- Market feedback and adoption metrics
+
+### Interactions
+- Partners with Product Managers on roadmap and feature prioritization
+- Works with Project Managers on launch timing and coordination
+- Aligns with Release Engineers on deployment and announcement timing
+- Engages with Customer Success on customer feedback and adoption barriers
+- Coordinates with UX/Design Lead on visual branding and materials
+- Works with Analytics/Data on market metrics and adoption tracking
+- Supports Stakeholder Management on investor and board communications
+
+---
+
+## Finance / Budget Owner
+
+### Role Summary
+Finance and Budget Owners manage project finances, track resource costs, and ensure projects deliver value within budget constraints. They provide financial oversight and accountability for project investments.
+
+### Responsibilities
+- Define project budgets and resource allocation
+- Track and monitor project spending and resource utilization
+- Manage vendor contracts and procurement for project needs
+- Analyze return on investment (ROI) for projects
+- Provide financial forecasting and reporting
+- Identify cost optimization opportunities
+- Ensure financial compliance and audit readiness
+
+### Goals
+- Deliver projects within approved budgets
+- Maximize ROI on project investments
+- Maintain financial transparency and accountability
+- Optimize resource allocation across projects
+
+### Typical Communication
+- Budget forecasts and spending reports
+- Financial analysis and ROI assessments
+- Procurement status and contract updates
+- Cost optimization recommendations
+
+### Interactions
+- Works with Project Managers on budget planning and resource allocation
+- Partners with Stakeholder Management on investment decisions and approvals
+- Engages with Product Managers on feature prioritization based on cost-benefit
+- Collaborates with DevOps/Platform engineers on infrastructure costs
+- Supports Finance/Procurement teams with vendor and contract needs
+- Provides financial insights to executives for strategic decisions
+
+---
+
+## Customer Success / Account Manager
+
+### Role Summary
+Customer Success and Account Managers ensure customer satisfaction, gather customer feedback, and drive adoption of new features. They serve as the voice of the customer and bridge between customers and the product team.
+
+### Responsibilities
+- Manage customer relationships and ensure high satisfaction
+- Gather and prioritize customer feedback and feature requests
+- Support customer adoption of new features and capabilities
+- Conduct customer training and onboarding
+- Identify upsell and expansion opportunities
+- Track customer health metrics and churn risk
+- Communicate customer needs to product and support teams
+
+### Goals
+- Maximize customer satisfaction and retention
+- Drive feature adoption and product usage
+- Provide actionable customer insights to inform product decisions
+- Reduce customer support burden through proactive engagement
+
+### Typical Communication
+- Customer feedback and feature request logs
+- Adoption metrics and customer health reports
+- Customer success plans and training materials
+- Regular customer check-ins and business reviews
+
+### Interactions
+- Partners with Product Managers on customer feedback and prioritization
+- Engages with Support/Operations on escalations and issue resolution
+- Works with UX/Design Lead on user experience improvements
+- Aligns with Marketing/Communications on customer announcements and education
+- Provides customer insights to Project Managers for planning
+- Collaborates with Analytics/Data on customer metrics and adoption tracking
+
+---
+
+## Support / Operations
+
+### Role Summary
+Support and Operations professionals manage post-launch customer support, operational processes, and ongoing system health. They ensure smooth operations and rapid issue resolution for customers.
+
+### Responsibilities
+- Manage customer support tickets and escalations
+- Develop and maintain support documentation and FAQs
+- Create operational runbooks and procedures
+- Monitor system health and customer impact metrics
+- Troubleshoot and resolve production issues
+- Manage on-call rotations and incident response
+- Drive continuous improvement in support processes
+- Provide feedback from customers to development teams
+
+### Goals
+- Maximize customer satisfaction through responsive support
+- Minimize mean time to resolution (MTTR) for issues
+- Reduce support burden through documentation and automation
+- Maintain operational excellence and system reliability
+
+### Typical Communication
+- Support tickets and escalation logs
+- Operational runbooks and procedures
+- System health and support metrics reports
+- Customer feedback and issue trends
+
+### Interactions
+- Works with Developers on troubleshooting complex issues and root cause analysis
+- Collaborates with DevOps/Platform engineers on infrastructure health and monitoring
+- Engages with Customer Success on customer satisfaction and escalations
+- Partners with QA/Testing on issue reproduction and validation
+- Works with Project Managers on launch readiness and transition planning
+- Provides customer feedback to Product Managers for improvements
+- Coordinates with Marketing/Communications on customer announcements
+
+---
+
+## Legal / Compliance (Specialized)
+
+### Role Summary
+Legal and Compliance professionals ensure that projects comply with legal and regulatory requirements, manage intellectual property, and mitigate legal risks. They work alongside Security & Compliance on legal aspects of product development.
+
+### Responsibilities
+- Review contracts and legal agreements
+- Ensure compliance with regulatory requirements (GDPR, CCPA, industry-specific regulations)
+- Manage intellectual property and licensing
+- Assess legal risks and provide mitigation guidance
+- Conduct compliance audits and assessments
+- Develop legal policies and procedures
+- Support incident response for legal and regulatory matters
+
+### Goals
+- Protect the organization from legal and regulatory risks
+- Ensure compliance with applicable laws and regulations
+- Manage intellectual property and organizational assets
+- Support business objectives within legal constraints
+
+### Typical Communication
+- Legal risk assessments and compliance reports
+- Contract and agreement documentation
+- Compliance audit findings and action items
+- Policy updates and regulatory guidance
+
+### Interactions
+- Partners with Security & Compliance on data protection and regulatory matters
+- Works with Project Managers on compliance timelines and requirements
+- Engages with Product Managers on regulatory implications of features
+- Collaborates with Marketing/Communications on customer-facing legal requirements
+- Supports Executive leadership on organizational legal and compliance matters
+- Reviews vendor agreements with Finance/Procurement
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - When planning projects, reference these roles to ensure all necessary perspectives are included.
 - Use the "Interactions" section to identify cross-functional dependencies and communication needs.
+- Map project teams to these personas to ensure all necessary expertise and perspectives are represented.
+- Use persona interactions to design communication workflows and decision-making processes.
